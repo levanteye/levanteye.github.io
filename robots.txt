@@ -55,4 +55,4 @@ Allow: /
 User-agent: DuckAssistBot
 Allow: /
 
-Sitemap: https://tomer-isr.github.io/levant-site/sitemap.xml
+Sitemap: https://levanteye.github.io/sitemap.xml

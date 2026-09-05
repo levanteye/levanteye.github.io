@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
 <title>Око Леванта</title>
 <subtitle>Разборы Ближнего Востока по ивритским, арабским и английским источникам</subtitle>
-<link href="https://tomer-isr.github.io/levant-site/"/>
-<link rel="self" href="https://tomer-isr.github.io/levant-site/feed.xml"/>
-<id>https://tomer-isr.github.io/levant-site/</id>
+<link href="https://levanteye.github.io/"/>
+<link rel="self" href="https://levanteye.github.io/feed.xml"/>
+<id>https://levanteye.github.io/</id>
 <updated>2026-09-05T08:41:00Z</updated>
 <author><name>Око Леванта</name></author>
 <entry>
 <title>Барьер в 3,25% за неделю до подачи списков снял с выборов «Ахдут» Эрдана и свёл Смотрича с Фейглином в один список</title>
-<link href="https://tomer-isr.github.io/levant-site/2026/09/spiski-barier-erdan/"/>
-<id>https://tomer-isr.github.io/levant-site/2026/09/spiski-barier-erdan/</id>
+<link href="https://levanteye.github.io/2026/09/spiski-barier-erdan/"/>
+<id>https://levanteye.github.io/2026/09/spiski-barier-erdan/</id>
 <published>2026-09-05T08:41:00Z</published>
 <updated>2026-09-05T08:41:00Z</updated>
 <summary>Эрдан объявил 4 сентября, что его партия не участвует в выборах: переговоры с Ганцем об объединении сорвались (Haaretz). Ни «Ахдут», ни «Кахоль-Лаван» барьер в опросах не проходят (Ynet).</summary>
@@ -24,8 +24,8 @@
 </entry>
 <entry>
 <title>Четверо оружейных экспертов, опрошенных Reuters: удар по свадьбе в Сирике был прямым попаданием, а не рикошетом</title>
-<link href="https://tomer-isr.github.io/levant-site/2026/09/sirik-svadba-pryamoe-popadanie/"/>
-<id>https://tomer-isr.github.io/levant-site/2026/09/sirik-svadba-pryamoe-popadanie/</id>
+<link href="https://levanteye.github.io/2026/09/sirik-svadba-pryamoe-popadanie/"/>
+<id>https://levanteye.github.io/2026/09/sirik-svadba-pryamoe-popadanie/</id>
 <published>2026-09-05T04:37:00Z</published>
 <updated>2026-09-05T04:37:00Z</updated>
 <summary>Агентство передало четырём военным экспертам фотографии и видео с места, прошедшие его собственную проверку. Все четверо ответили, что повреждения соответствуют прямому попаданию, а не вторичному…</summary>
@@ -40,8 +40,8 @@
 </entry>
 <entry>
 <title>ЦАХАЛ сообщил об оперативном контроле над Али ат-Тахером: два тоннельных маршрута зачищены, «Хизбалла» потерю хребта не подтвердила</title>
-<link href="https://tomer-isr.github.io/levant-site/2026/09/ali-taher-hrebet-vzyat/"/>
-<id>https://tomer-isr.github.io/levant-site/2026/09/ali-taher-hrebet-vzyat/</id>
+<link href="https://levanteye.github.io/2026/09/ali-taher-hrebet-vzyat/"/>
+<id>https://levanteye.github.io/2026/09/ali-taher-hrebet-vzyat/</id>
 <published>2026-09-04T17:53:00Z</published>
 <updated>2026-09-04T17:53:00Z</updated>
 <summary>3 сентября армия объявила, что 36-я дивизия держит район хребта на поверхности и под землёй. За последние недели зачищены два тоннельных маршрута; часть боевиков «Хизбаллы» уничтожена, часть ушла.…</summary>
@@ -56,8 +56,8 @@
 </entry>
 <entry>
 <title>Иранскую ядерную программу в сентябре перестают проверять по обеим линиям</title>
-<link href="https://tomer-isr.github.io/levant-site/2026/09/magate-1737-dva-kanala/"/>
-<id>https://tomer-isr.github.io/levant-site/2026/09/magate-1737-dva-kanala/</id>
+<link href="https://levanteye.github.io/2026/09/magate-1737-dva-kanala/"/>
+<id>https://levanteye.github.io/2026/09/magate-1737-dva-kanala/</id>
 <published>2026-09-02T21:50:00Z</published>
 <updated>2026-09-02T21:50:00Z</updated>
 <summary>1 сентября в Вене разошёлся закрытый доклад МАГАТЭ: инспекторы не знают ни где иранские запасы почти оружейного урана, ни в каком они состоянии.</summary>
