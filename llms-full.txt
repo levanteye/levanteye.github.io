@@ -2,6 +2,42 @@
 
 Разборы Ближнего Востока по ивритским, арабским и английским источникам
 
+## 🧮 Сверка за сентябрь: из 20 проверяемых пунктов подтвердились 14, три не подтвердились, два открыты
+
+Опубликовано 2 октября 2026 (2026-10-02T05:59:00Z). Теги: Сверка, Западный_берег, Ормуз, Саудовская_Аравия, Британия.
+Страница: https://levanteye.github.io/2026/10/sverka-sentyabr/
+
+1) 6 сентября: мы писали, что приказ Нетаньяху снести форпосты ограничен зонами A и B и остаётся ответом Вашингтону, а не сменой политики. О сносе ни одного форпоста за сентябрь не сообщил никто. Подтвердилось.
+
+2) 7 сентября: мы писали, что срок исполнения есть у одного ответа государства на насилие поселенцев — приказа БАГАЦа вернуть три семьи в Джалуд за 14 дней. Как передаёт BBC, 29 сентября возвращение остановили больше ста поселенцев. Не подтвердилось.
+
+3) 9 сентября: мы писали, что ответные меры Израиля на британский запрет не касаются торговли. Консульство в Восточном Иерусалиме работает, 30 дней истекают 8 октября. Подтвердилось.
+
+4) 15 сентября: мы писали, что бин Салман собирает не защиту, а право бить в Йемене не в одиночку. К 30 сентября Британия дала саудовским самолётам заправщик, Франция объявила об отправке войск и расчётов ПВО в Янбу. Не подтвердилось.
+
+5) 19 сентября: мы писали, что объявленный ЦЕНТКОМом шестимесячный максимум прохода через Ормуз независимым замером не подтверждён. 22 сентября прошли три судна при среднем около пятнадцати за декаду по данным Kpler. Подтвердилось.
+
+6) 24 сентября: мы писали 15-го, что добавку минобороны внутри года передаёт только голосование пленума. 23 сентября её передала комиссия кнессета по финансам — почти 15 миллиардов шекелей без открытия закона. Поправили сами.
+
+Открыты два: решение БАГАЦа по именным данным о голосующих и суточный замер прохода через Баб-эль-Мандеб, которого за месяц никто не дал. Счёт — 14 из 20, следующая сверка 1 ноября.
+
+#Сверка #Западный_берег #Ормуз #Саудовская_Аравия #Британия
+👁 Око Леванта
+
+Источники:
+- https://www.bbc.co.uk/news/articles/cvlylj41egxgo
+- https://www.haaretz.com/west-bank/2026-09-29/ty-article/.premium/idf-100-settlers-rioted-in-w-bank-thwarting-operation-to-return-palestinians/000001a0-eb9b-dbd2-affb-ebfbc7c50000
+- https://www.aljazeera.com/news/2026/9/29/israeli-settlers-attack-jalud-village-in-occupied-west-bank-torch-homes
+- https://www.timesofisrael.com/herzog-says-israeli-politicians-have-not-done-all-they-can-to-halt-settler-violence/
+- https://www.al-monitor.com/originals/2026/09/israels-netanyahu-orders-removal-west-bank-settler-outposts-sources-say
+- https://www.middleeasteye.net/news/ed-miliband-confirms-uk-considering-defying-israeli-order-close-british-consulate-east
+- https://www.jpost.com/israel-news/article-907974
+- https://www.twz.com/news-features/france-sending-forces-to-help-defend-saudi-arabias-red-sea-oil-facilities
+- https://www.timesofisrael.com/liveblog_entry/france-to-send-troops-to-protect-saudi-arabia-on-red-sea-oil-route-macron-says/
+- https://www.forbes.com/sites/pauliddon/2026/09/28/cornered-by-houthis-and-iran-saudi-arabia-garners-allied-defense-support/
+- https://www.timesofisrael.com/liveblog_entry/knesset-panel-boosts-defense-budget-by-nearly-nis-15-billion/
+- https://www.middleeasteye.net/live-blog/live-blog-update/report-hormuz-traffic-tuesday-below-10-day-average
+
 ## ⚡ Шестой задержанный по делу о базе Фэйрфорд — первый с иранским паспортом
 
 Опубликовано 1 октября 2026 (2026-10-01T17:26:00Z). Теги: Британия, Иран, Фэйрфорд, Терроризм.
