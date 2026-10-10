@@ -2,6 +2,42 @@
 
 Разборы Ближнего Востока по ивритским, арабским и английским источникам
 
+## 🌍 США внесли в санкционный список сам Международный уголовный суд: переходный срок — 180 дней, и адресован он не суду, а странам Римского статута
+
+Опубликовано 10 октября 2026 (2026-10-10T08:43:00Z). Теги: МУС, Гаага, США, Санкции.
+Страница: https://levanteye.github.io/2026/10/mus-sankcii-srok/
+
+В документе о санкциях, который приводит Ynet, активы суда в США заморожены, а сделки с ним запрещены. До 9 октября указ 14203 действовал только на людей: их названо 17, и вносили их после ордеров на Нетаньяху и Йоава Галанта в ноябре 2024 года.
+
+Условие госсекретарь Марко Рубио назвал так:
+
+«Или Международный уголовный суд прекратит свои угрозы, или мы положим конец суду».
+
+Заморозка тут мало что значит: своих денег в США у суда нет. Работает доллар. Внесённая в список организация не ведёт расчёты через американскую систему, а банк или поставщик программ отключает клиента раньше формального запрета: свой доступ к долларам дороже.
+
+Поэтому четыре лицензии минфина США — не послабление, а срок, который Еврокомиссия уже назвала отсрочкой вступления санкций в силу. На 180 дней разрешены текущая работа суда, облачные услуги, пенсии и дела заключённых, и меняются лицензии, по тексту документа, «в зависимости от успеха или провала» усилий стран-участниц. Римский статут подписали 125 государств, и обуздать суд Рубио требует от них.
+
+Нобелевская премия мира, которую часами раньше получила бывшая судья этого суда Нави Пиллэй, меру не вызвала: её устройство — весь суд в списке и переходный срок в шесть-семь месяцев — пересказала 21 сентября Al Jazeera по публикации «Уолл-стрит джорнэл».
+
+Цену Вашингтон платит в своём лагере: общее заявление по суду выпустили главы МИД восьми стран, включая Германию, Францию и Британию, — тех самых союзников, от которых Рубио требует суд обуздать. Названной уступки в требованиях нет: отзыв ордеров не упомянут ни разу. Проверяемый пункт — 7 апреля 2027 года, день истечения лицензии: если до него суд лишится банка или поставщика услуг, сила меры в долларе; если лицензию продлят, она была переговорной позицией.
+
+#МУС #Гаага #США #Санкции #Международное_право
+👁 Око Леванта
+
+Источники:
+- https://www.ynet.co.il/news/article/bydsl00ijze
+- https://www.haaretz.co.il/news/world/america/2026-10-09/ty-article/000001a1-210c-d7a3-a1f7-eb5e3ff70000
+- https://www.timesofisrael.com/liveblog_entry/us-to-impose-fresh-sanctions-on-icc-banning-transactions-with-rogue-court/
+- https://www.middleeasteye.net/live-blog/live-blog-update/us-sanctions-international-criminal-court-after-former-judge-awarded
+- https://www.middleeasteye.net/live-blog/live-blog-update/eu-vows-protect-icc-after-us-sanctions
+- https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-hails-us-sanctions-icc-calls-nobel-laureate-jurist-bigot
+- https://www.aljazeera.com/news/2026/10/9/us-sanctions-international-criminal-court-itself-in-latest-escalation
+- https://www.middleeastmonitor.com/20261009-us-imposes-sanctions-on-international-criminal-court-threatens-to-dismantle-it/
+- https://www.middleeastmonitor.com/20261009-eu-calls-us-sanctions-announcement-against-international-criminal-court-deeply-regrettable/
+- https://www.al-monitor.com/originals/2026/10/former-icc-judge-navi-pillay-wins-2026-nobel-peace-prize
+- https://www.timesofisrael.com/liveblog_entry/nobel-peace-committee-says-not-up-to-it-to-decide-if-gaza-war-constitutes-genocide-after-awarding-prize-to-head-of-un-panel-which-said-it-was/
+- https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say
+
 ## 🌅 Утро: 136 целей коалиции в Йемене и 300 тысяч тонн российского дизеля Вашингтону
 
 Опубликовано 10 октября 2026 (2026-10-10T05:02:00Z). Теги: Йемен, США, Израиль.
