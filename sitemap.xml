@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://levanteye.github.io/</loc><lastmod>2026-10-26T09:33:00Z</lastmod></url>
-<url><loc>https://levanteye.github.io/archive/</loc><lastmod>2026-10-26T09:33:00Z</lastmod></url>
+<url><loc>https://levanteye.github.io/</loc><lastmod>2026-10-26T12:53:00Z</lastmod></url>
+<url><loc>https://levanteye.github.io/archive/</loc><lastmod>2026-10-26T12:53:00Z</lastmod></url>
+<url><loc>https://levanteye.github.io/2026/10/front-shekel-akciza/</loc><lastmod>2026-10-26T12:53:00Z</lastmod></url>
 <url><loc>https://levanteye.github.io/2026/10/knesset-276-peticiy/</loc><lastmod>2026-10-26T09:33:00Z</lastmod></url>
 <url><loc>https://levanteye.github.io/2026/10/utro-mandelblit-tegeran/</loc><lastmod>2026-10-26T06:34:00Z</lastmod></url>
 <url><loc>https://levanteye.github.io/2026/10/srok-udara-statya-40/</loc><lastmod>2026-10-25T18:53:00Z</lastmod></url>
@@ -196,6 +197,7 @@
 <url><loc>https://levanteye.github.io/tag/abbas/</loc><lastmod>2026-10-11T18:47:00Z</lastmod></url>
 <url><loc>https://levanteye.github.io/tag/aden/</loc><lastmod>2026-10-15T16:10:00Z</lastmod></url>
 <url><loc>https://levanteye.github.io/tag/agitatsiya/</loc><lastmod>2026-10-26T09:33:00Z</lastmod></url>
+<url><loc>https://levanteye.github.io/tag/aktsiz/</loc><lastmod>2026-10-26T12:53:00Z</lastmod></url>
 <url><loc>https://levanteye.github.io/tag/aramko/</loc><lastmod>2026-10-13T16:23:00Z</lastmod></url>
 <url><loc>https://levanteye.github.io/tag/argentina/</loc><lastmod>2026-10-24T09:40:00Z</lastmod></url>
 <url><loc>https://levanteye.github.io/tag/armiya/</loc><lastmod>2026-09-20T08:47:00Z</lastmod></url>
@@ -204,7 +206,7 @@
 <url><loc>https://levanteye.github.io/tag/bagats/</loc><lastmod>2026-10-23T12:43:00Z</lastmod></url>
 <url><loc>https://levanteye.github.io/tag/bank-izrailya/</loc><lastmod>2026-10-25T13:19:00Z</lastmod></url>
 <url><loc>https://levanteye.github.io/tag/banki/</loc><lastmod>2026-09-25T12:29:00Z</lastmod></url>
-<url><loc>https://levanteye.github.io/tag/benzin/</loc><lastmod>2026-10-02T12:08:00Z</lastmod></url>
+<url><loc>https://levanteye.github.io/tag/benzin/</loc><lastmod>2026-10-26T12:53:00Z</lastmod></url>
 <url><loc>https://levanteye.github.io/tag/bezopasnost/</loc><lastmod>2026-10-13T08:47:00Z</lastmod></url>
 <url><loc>https://levanteye.github.io/tag/bituakh-leumi/</loc><lastmod>2026-10-04T12:32:00Z</lastmod></url>
 <url><loc>https://levanteye.github.io/tag/boepripasy/</loc><lastmod>2026-10-13T12:14:00Z</lastmod></url>
@@ -230,7 +232,7 @@
 <url><loc>https://levanteye.github.io/tag/irak/</loc><lastmod>2026-10-03T18:54:00Z</lastmod></url>
 <url><loc>https://levanteye.github.io/tag/iran/</loc><lastmod>2026-10-26T06:34:00Z</lastmod></url>
 <url><loc>https://levanteye.github.io/tag/izbiratelnaya-komissiya/</loc><lastmod>2026-09-23T09:08:00Z</lastmod></url>
-<url><loc>https://levanteye.github.io/tag/izrail/</loc><lastmod>2026-10-26T09:33:00Z</lastmod></url>
+<url><loc>https://levanteye.github.io/tag/izrail/</loc><lastmod>2026-10-26T12:53:00Z</lastmod></url>
 <url><loc>https://levanteye.github.io/tag/katar/</loc><lastmod>2026-10-20T18:27:00Z</lastmod></url>
 <url><loc>https://levanteye.github.io/tag/khamas/</loc><lastmod>2026-10-15T19:17:00Z</lastmod></url>
 <url><loc>https://levanteye.github.io/tag/kharedim/</loc><lastmod>2026-10-08T11:56:00Z</lastmod></url>
@@ -292,7 +294,7 @@
 <url><loc>https://levanteye.github.io/tag/terrorizm/</loc><lastmod>2026-10-09T17:19:00Z</lastmod></url>
 <url><loc>https://levanteye.github.io/tag/tramp/</loc><lastmod>2026-10-08T17:02:00Z</lastmod></url>
 <url><loc>https://levanteye.github.io/tag/tsakhal/</loc><lastmod>2026-10-23T21:22:00Z</lastmod></url>
-<url><loc>https://levanteye.github.io/tag/tseny/</loc><lastmod>2026-10-18T12:36:00Z</lastmod></url>
+<url><loc>https://levanteye.github.io/tag/tseny/</loc><lastmod>2026-10-26T12:53:00Z</lastmod></url>
 <url><loc>https://levanteye.github.io/tag/tssb/</loc><lastmod>2026-10-17T12:07:00Z</lastmod></url>
 <url><loc>https://levanteye.github.io/tag/turtsiya/</loc><lastmod>2026-10-21T17:43:00Z</lastmod></url>
 <url><loc>https://levanteye.github.io/tag/velikobritaniya/</loc><lastmod>2026-10-19T17:41:00Z</lastmod></url>
