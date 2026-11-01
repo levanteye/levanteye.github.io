@@ -2,6 +2,47 @@
 
 Разборы Ближнего Востока по ивритским, арабским и английским источникам
 
+## 🧮 Сверка за октябрь: из 11 проверенных пунктов подтвердились 4, два не подтвердились, четыре открыты, один мы уточнили
+
+Опубликовано 1 ноября 2026 (2026-11-01T18:43:00Z). Теги: Сверка, Выборы_в_Кнессет, Хеврон, Фэйрфорд.
+Страница: https://levanteye.github.io/2026/11/sverka-oktyabr/
+
+1) 27 сентября: мы писали, что документ блока от 26 сентября останется обязательством о поведении, а не о власти, если кандидата в премьеры не назовут до голосования. Назвали после: Объединённый список и РААМ поддерживают Айзенкота. Подтвердилось.
+
+2) 30 сентября: мы писали, что иранскую атрибуцию у базы Фэйрфорд проверит мера, а не суд: дело шло против британских граждан. 27 октября двоим предъявили обвинение в содействии иностранной разведке по закону о национальной безопасности 2023 года, и CNBC приводит слова британской антитеррористической полиции, назвавшей страну: Иран. Не подтвердилось.
+
+3) 6 октября: мы писали, что «немедленное исполнение» Меккского пакта остаётся внутри саудовско-турецкого соглашения 2010 года, пока в парламент Турции не внесён договор или мандат. 20 октября договор внесён на ратификацию. Не подтвердилось.
+
+4) 23 и 24 октября: мы писали, что объявленные армией «несколько дней» в Хевроне упираются в день голосования, а цель прохода домов без сообщения об оружии не подтверждается. Переходы Западного берега в день выборов закрыли полностью; по счёту губернатора Хеврона прочёсано больше 500 домов и задержано больше 70, об оружии армия не сообщила. Подтвердилось.
+
+5) 26 октября: мы писали, что в ночь на 1 ноября бензин дорожает дважды. Литр подешевел на 42 агорот, до 7,35 шекеля, и уточнение вышло сегодня утром. Поправили сами.
+
+Открыты четыре: неподанный турецкий мандат; китайская структура в санкциях США; мотивы БАГАЦа по статье 7А, обещанные отдельно от решения 2 октября; выработка шести опреснительных установок.
+
+Счёт — 4 из 11, следующая сверка 1 декабря.
+
+#Сверка #Выборы_в_Кнессет #Хеврон #Фэйрфорд
+
+👁 Око Леванта
+
+Источники:
+- https://www.cnbc.com/2026/10/27/uk-national-security-raf-fairford-iran.html
+- https://www.cnn.com/2026/10/27/uk/fairford-incident-charges-iran-intl
+- https://www.nbcnews.com/world/united-kingdom/men-charged-raf-fairford-us-military-base-uk-iran-war-rcna605883
+- https://www.jpost.com/middle-east/article-912410
+- https://www.usnews.com/news/world/articles/2026-10-21/turkey-planning-mandate-to-send-military-personnel-saudi-arabia-under-mecca-pact-ruling-party-official-says
+- https://www.aljazeera.com/news/2026/10/27/palestine-weekly-west-bank-under-siege-as-israelis-go-to-the-polls
+- https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues
+- https://www.timesofisrael.com/liveblog_entry/israel-land-authority-confirms-e1-tenders-will-only-be-reviewed-after-election
+- https://www.israelhayom.com/2026/09/26/attorney-general-orders-e1-tender-postponed-until-after-election/
+- https://www.jpost.com/israel-election-2026/article-913448
+- https://www.ynetnews.com/article/sk8eaw4pge
+- https://www.inn.co.il/news/707577
+- https://www.globes.co.il/news/article.aspx?did=1001558307
+- https://www.steptoe.com/en/news-publications/international-compliance-blog/weekly-sanctions-update-october-26-2026.html
+- https://13tv.co.il/item/news/economics/water-905393732/
+- https://www.ynet.co.il/economy/article/sjpv9g76ml
+
 ## ⚡ Пятеро из восьми убитых за сутки в Газе — полицейские; армия заявляет, что ударила по боевикам
 
 Опубликовано 1 ноября 2026 (2026-11-01T14:09:00Z). Теги: Газа, Перемирие, Полиция.
