@@ -2,6 +2,50 @@
 
 Разборы Ближнего Востока по ивритским, арабским и английским источникам
 
+## 📊 Неделя в цифрах, 15–21 ноября: 48,3 миллиарда долларов, в которые Пентагону обошлась война с Ираном, и ещё шесть чисел
+
+Опубликовано 21 ноября 2026 (2026-11-21T19:34:00Z). Теги: Неделя_в_цифрах, Иран, Кнессет, Газа.
+Страница: https://levanteye.github.io/2026/11/nedelya-v-cifrah/
+
+1) 48,3 миллиарда долларов — цена войны на 13 ноября, названная 20 ноября сенатскому комитету по вооружённым силам; её передаёт ABC News. За месяц счёт вырос на 1,2 миллиарда, а ремонт повреждённых американских баз в него не входит.
+
+2) 48 против 51 — счёт, которым сенат в ночь на 20 ноября отклонил резолюцию о выводе американских сил из боёв с Ираном. За резолюцию голосовали три республиканца, против — один демократ: партийная линия держит это голосование не целиком.
+
+3) 66 против 52 — счёт выборов спикера кнессета 17 ноября. Большинство блоку Айзенкота дали арабские списки, и обещанная за это комиссия по делам арабского общества должна появиться до конца месяца.
+
+4) 63 против 47 и 63 против 49 — счёта двух отмен законов правовой реформы в предварительном чтении 18 ноября. Прошли три отмены из пяти, и предварительное чтение — первое из четырёх.
+
+5) 38 миллиметров — диаметр стойки, толще которого палатку в Газу обычно не пускают. Порог впервые назвал цифрой на брифинге ООН глава газской программы МОМ; зимней программе агентства не хватает 173 миллионов долларов.
+
+6) 1,1 процента — годовая инфляция по октябрьскому индексу ЦСБ, ниже всего с апреля 2021 года. В том же индексе сменившие квартиру съёмщики заплатили на 5,5 процента больше, продлившие договор — на 2,8.
+
+7) 201 убитый в арабском обществе с начала года — против 226 за тот же отрезок прошлого года. Это единственный из трёх счётов, который называет свой состав; его привела Walla. За неделю счёт «Гаарец» дошёл до 203.
+
+Ставку 3,25 процента Банк Израиля пересматривает в понедельник, 23 ноября, — первое решение после выборов 27 октября, при курсе 3,28 шекеля за доллар.
+
+Так здесь каждый день: два-четыре разбора по ивритским, арабским и английским источникам. Архив — levanteye.github.io
+
+#Неделя_в_цифрах #Иран #Кнессет #Газа
+
+👁 Око Леванта
+
+Источники:
+- https://abcnews.com/US/wireStory/iran-war-costs-surpass-48b-lawmakers-demand-unreleased-138299529
+- https://www.dailysabah.com/world/americas/us-iran-war-costs-reach-483b-excluding-damaged-base-repairs
+- https://www.timesofisrael.com/liveblog_entry/backing-trump-us-senate-republicans-block-iran-war-resolution/
+- https://www.middleeasteye.net/news/senate-vote-curb-trump-war-iran-fails-again
+- https://www.timesofisrael.com/knesset-votes-66-52-to-elect-yashars-matan-kahana-as-speaker-in-boost-to-eisenkot-bloc/
+- https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker
+- https://www.timesofisrael.com/liveblog_entry/knesset-votes-63-47-to-repeal-law-weakening-ags-powers-in-preliminary-vote/
+- https://www.timesofisrael.com/liveblog_entry/knesset-votes-63-49-to-repeal-controversial-media-overhaul-law-in-preliminary-vote/
+- https://www.timesofisrael.com/un-gaza-bound-shelter-materials-refused-entry-leaving-displaced-masses-exposed/
+- https://www.iom.int/news/winter-hits-gaza-hard-food-and-shelter-aid-runs-short-iom-and-wfp-warn
+- https://www.cbs.gov.il/en/Pages/Main%20Price%20Indices.aspx
+- https://www.ynet.co.il/economy/article/b1axwodcml
+- https://www.walla.co.il/news/opinions/383961418
+- https://www.ynet.co.il/economy/article/sknq9qhagg
+- https://www.boi.org.il/en/communication-and-publications/additional-publications/minutes-of-meetings-to-decide-on-monetary-policy/
+
 ## 🏠 Доллар на 3,28 шекеля — дороже, чем в любой день с октября 2025-го
 
 Опубликовано 21 ноября 2026 (2026-11-21T13:08:00Z). Теги: Шекель, Банк_Израиля, Инфляция.
